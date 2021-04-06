@@ -1,0 +1,7 @@
+D:\Skillbox\2.1_Исходники\dz\Notebook\Notebook1\bin\Debug\Notebook1.exe.config
+D:\Skillbox\2.1_Исходники\dz\Notebook\Notebook1\bin\Debug\Notebook1.exe
+D:\Skillbox\2.1_Исходники\dz\Notebook\Notebook1\bin\Debug\Notebook1.pdb
+D:\Skillbox\2.1_Исходники\dz\Notebook\Notebook1\obj\Debug\Notebook1.csproj.CoreCompileInputs.cache
+D:\Skillbox\2.1_Исходники\dz\Notebook\Notebook1\obj\Debug\Notebook1.exe
+D:\Skillbox\2.1_Исходники\dz\Notebook\Notebook1\obj\Debug\Notebook1.pdb
+D:\Skillbox\2.1_Исходники\dz\Notebook\Notebook1\obj\Debug\Notebook1.csprojAssemblyReference.cache
